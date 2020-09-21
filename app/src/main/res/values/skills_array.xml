@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Art</item>
+        <item>Bargain</item>
+        <item>Climb</item>
+        <item>Conceal Object</item>
+        <item>Craft</item>
+        <item>Disguise</item>
+        <item>Dodge</item>
+        <item>Evaluate</item>
+        <item>Fast Talk</item>
+        <item>Hide</item>
+        <item>Insight</item>
+        <item>Jump</item>
+        <item>Listen</item>
+        <item>Million Spheres</item>
+        <item>Move Quietly</item>
+        <item>Natural World</item>
+        <item>Navigate</item>
+        <item>Oratory</item>
+        <item>Other Language</item>
+        <item>Own Language</item>
+        <item>Physik</item>
+        <item>Pick Lock</item>
+        <item>Potions</item>
+        <item>Repair/Devise</item>
+        <item>Ride</item>
+        <item>Sailing</item>
+        <item>Scent/Taste</item>
+        <item>Scribe</item>
+        <item>Search</item>
+        <item>Swim</item>
+        <item>Throw</item>
+        <item>Track</item>
+        <item>Trap</item>
+        <item>Unknown Kingdoms</item>
+        <item>Young Kingdoms</item>
+    </string-array>
+
+    <integer-array name="base_values">
+        <item>5</item>
+        <item>15</item>
+        <item>40</item>
+        <item>25</item>
+        <item>5</item>
+        <item>15</item>
+        <item>0</item>
+        <item>15</item>
+        <item>15</item>
+        <item>20</item>
+        <item>15</item>
+        <item>25</item>
+        <item>25</item>
+        <item>0</item>
+        <item>20</item>
+        <item>25</item>
+        <item>10</item>
+        <item>5</item>
+        <item>0</item>
+        <item>0</item>
+        <item>30</item>
+        <item>5</item>
+        <item>0</item>
+        <item>0</item>
+        <item>35</item>
+        <item>15</item>
+        <item>15</item>
+        <item>0</item>
+        <item>20</item>
+        <item>25</item>
+        <item>25</item>
+        <item>10</item>
+        <item>5</item>
+        <item>0</item>
+        <item>15</item>
+
+    </integer-array>
+</resources>

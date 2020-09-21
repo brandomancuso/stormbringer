@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Stormbringer!</string>
+
+    <string name="char_str">STR:</string>
+    <string name="char_con">CON:</string>
+    <string name="char_siz">SIZ:</string>
+    <string name="char_int">INT:</string>
+    <string name="char_pow">POW:</string>
+    <string name="char_dex">DEX:</string>
+    <string name="char_app">APP:</string>
+
+    <string name="roll_idea">Idea</string>
+    <string name="roll_luck">Luck</string>
+    <string name="roll_dexterity">Dexterity</string>
+    <string name="roll_charisma">Charisma</string>
+
+    <string name="dmg_bonus">DAMAGE BONUS</string>
+
+    <string name="name">Name</string>
+    <string name="birthplace">Birthplace</string>
+    <string name="sex">Sex</string>
+    <string name="age">Age</string>
+    <string name="family">Family</string>
+    <string name="title">Title/Nickname</string>
+    <string name="description">Looks, attitude</string>
+
+    <string name="frame_char">Characteristics</string>
+    <string name="frame_portrait">Portrait</string>
+    <string name="frame_skills">Skills</string>
+    <string name="frame_hp">Hit Points</string>
+    <string name="frame_mp">Magic Points</string>
+    <string name="frame_allegiance">Allegiance</string>
+    <string name="frame_magic_in_memory">Magic in Memory</string>
+    <string name="frame_hand_2_hand_weapons">Hand-To-Hand Weapons</string>
+    <string name="frame_armor_shield">Armor, Shield</string>
+    <string name="frame_missile_weapons">Missile Weapons</string>
+    <string name="frame_background">Background</string>
+    <string name="frame_grimoire">Grimoire</string>
+
+    <string name="page_1">General</string>
+    <string name="page_2">Stats</string>
+    <string name="page_3">Skills</string>
+    <string name="page_4">Magic</string>
+    <string name="page_5">Journal</string>
+    <string name="create_new_sheet_menu_entry">Create new sheet</string>
+    <string name="title_activity_login">Log-in</string>
+
+    <string name="login_error_message">email or password missing.</string>
+    <string name="logout">Logout</string>
+    <string name="frame_notes">Notes</string>
+
+</resources>

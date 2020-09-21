@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <CheckBox
+        android:id="@+id/stat_check_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="3" />
+
+    <TextView
+        android:id="@+id/value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="2"
+        android:textAlignment="textEnd" />
+
+    <Button
+        android:id="@+id/incr"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:ems="1"
+        android:text="+"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/decr"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:ems="1"
+        android:text="-"
+        android:visibility="invisible"/>
+
+</LinearLayout>

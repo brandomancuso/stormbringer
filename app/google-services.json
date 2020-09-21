@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99521092434",
+    "firebase_url": "https://stormbringer-b1079.firebaseio.com",
+    "project_id": "stormbringer-b1079",
+    "storage_bucket": "stormbringer-b1079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99521092434:android:ef4cdce1a1b49d8d",
+        "android_client_info": {
+          "package_name": "com.apps.brando.stormbringer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99521092434-a57pr8cekiii5ktmqg65etho07nadv76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.brando.stormbringer",
+            "certificate_hash": "a99e86ccbc50945e5308872682d6a1d6d0a4b1e6"
+          }
+        },
+        {
+          "client_id": "99521092434-0noum5dcjkueldu24p1jjl4ej8ao6j4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACEi3iuMT2nWs1bYS2wHDAJcLElTKn-K8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99521092434-0noum5dcjkueldu24p1jjl4ej8ao6j4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
